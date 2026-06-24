@@ -27,7 +27,7 @@ This project showcases practical skills in data analysis, SQL querying, business
 
 * Source: (https://surl.li/aspzsj)
 * Format: CSV 
-* Size: (e.g., 10,000+ records)
+* Size: 3900
 * Features include:
 
   * Numerical variables
@@ -138,7 +138,7 @@ This project demonstrates the ability to translate raw data into meaningful busi
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone <>
 cd <project-folder>
 ```
 
