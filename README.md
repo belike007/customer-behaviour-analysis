@@ -186,13 +186,4 @@ This project reflects a production-style data analytics pipeline — integrating
 
 It demonstrates both technical depth and business understanding, making it suitable for Data Analyst / Business Intelligence roles.
 
----
 
-If you want, I can now:
-
-* ✨ Customize this README for a specific dataset (Sales / HR / Finance / Healthcare)
-* ✨ Make a stronger “resume impact” version
-* ✨ Add GitHub badges and visuals
-* ✨ Convert this into a professional portfolio description
-
-Tell me which one you want.
